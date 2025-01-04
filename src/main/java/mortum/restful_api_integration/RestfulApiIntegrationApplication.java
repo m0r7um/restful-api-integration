@@ -4,10 +4,10 @@ import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class ResTfulApiIntegrationApplication {
+public class RestfulApiIntegrationApplication {
 
     public static void main(String[] args) {
-        SpringApplication.run(ResTfulApiIntegrationApplication.class, args);
+        SpringApplication.run(RestfulApiIntegrationApplication.class, args);
     }
 
 }
